@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+    font-weight: 600;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+button{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 150px;
+    height: 70px;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
